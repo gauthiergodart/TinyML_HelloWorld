@@ -1,2 +1,2 @@
-# TinyML_HelloWorld
-Hello World Project from the TinyML (Warden &amp; Situnayake) Book
+# TinyML_Projects
+Projects from the TinyML (Warden &amp; Situnayake) Book
